@@ -1,0 +1,10 @@
+#header
+{
+    /* height: auto;
+    width: 100%; */
+    overflow: hidden;
+    background-image:url('mainimage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+}
